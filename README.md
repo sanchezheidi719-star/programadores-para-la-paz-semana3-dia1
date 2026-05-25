@@ -73,4 +73,4 @@ node decision-comunitaria.js
 git status
 git add .
 git commit -m "Algoritmos simples con JavaScript semana 3 dia 1"
-git push -u origin nombres_apellidos
+git push -u origin nombres_apellidos.
